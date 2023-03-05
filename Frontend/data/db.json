@@ -1,0 +1,42 @@
+{
+  "hotels": [
+    {
+      "id": 0,
+      "name": "Fairmont Hotel Vancouver",
+      "img": "https://www.fairmont.com/assets/0/104/1605/1610/5197/5198/d2ecbba3-bb09-4205-ac24-61b03fef5ad9.jpg",
+      "city": "Vancouver",
+      "location": "blah blah"
+    },
+    {
+      "id": 1,
+      "name": "St Regis Hotels",
+      "img": "https://images.trvl-media.com/hotels/1000000/20000/18200/18104/72197231_z.jpg",
+      "city": "Vancouver",
+      "location": "blah blah"
+    },
+    {
+      "name": "Blue Horizon Hotel ",
+      "city": "Vancouver",
+      "location": "Vancouver",
+      "id": 2
+    },
+    {
+      "name": "GEC Granville Suites Downtown",
+      "city": "Vancouver",
+      "location": "Vancouver",
+      "id": 3
+    },
+    {
+      "name": "Barclay Hotel",
+      "city": "Vancouver",
+      "location": "Vancouver",
+      "id": 4
+    },
+    {
+      "name": "Hotel Le Soleil by Executive Hotels ",
+      "city": "Vancouver",
+      "location": "Vancouver",
+      "id": 5
+    }
+  ]
+}
